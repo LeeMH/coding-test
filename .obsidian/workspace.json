@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2.문제풀이/백준,1931,회의실 배정.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "2.문제풀이/백준,1931,회의실 배정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "2.문제풀이/백준,1931,회의실 배정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "2.문제풀이/백준,1931,회의실 배정.md"
               }
             }
           }
@@ -146,8 +146,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "abd212c7fbe17a5c",
+  "active": "6d05cf45e629411e",
   "lastOpenFiles": [
+    "2.문제풀이/백준,1931,회의실 배정.md",
+    "1.자료구조,이론/PriorityQueue.md",
+    "attached/Pasted image 20240306122647.png",
+    "attached/Pasted image 20240306122606.png",
+    "attached/Pasted image 20240306122243.png",
+    "attached/Pasted image 20240306122230.png",
+    "README.md",
     "1.자료구조,이론",
     "2.문제풀이",
     "attached"
