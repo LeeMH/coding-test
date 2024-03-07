@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.자료구조,이론/PriorityQueue.md",
+                "file": "1.자료구조,이론/DFS.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.자료구조,이론/PriorityQueue.md",
+                "file": "1.자료구조,이론/DFS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.자료구조,이론/PriorityQueue.md",
+                "file": "1.자료구조,이론/DFS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.자료구조,이론/PriorityQueue.md"
+                "file": "1.자료구조,이론/DFS.md"
               }
             }
           }
@@ -161,8 +161,13 @@
   },
   "active": "49f2b46bf8a58c12",
   "lastOpenFiles": [
-    "2.문제풀이/백준,1931,회의실 배정.md",
+    "1.자료구조,이론/BFS.md",
+    "1.자료구조,이론/DFS.md",
+    "attached/Pasted image 20240307111318.png",
+    "attached/Pasted image 20240307110646.png",
+    "1.자료구조,이론/그래프 자료구조.md",
     "1.자료구조,이론/PriorityQueue.md",
+    "2.문제풀이/백준,1931,회의실 배정.md",
     "attached/Pasted image 20240306122647.png",
     "attached/Pasted image 20240306122606.png",
     "attached/Pasted image 20240306122243.png",
